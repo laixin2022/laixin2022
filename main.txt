@@ -1,0 +1,151 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="Vamvoudakis/jemdoc.css" type="text/css" />
+ <TITLE>Kyriakos G. Vamvoudakis, Ph.D.</TITLE> <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=_888oEvNzWs0YphJ-_HzXSdfGj_PN6iIp6bpC7d1TfxivybJlrY58J-6AslOvzrTmgXI6SydCmMBSg9dnKxi8g" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9reXJpYWtvcy5hZS5nYXRlY2guZWR1Lw"/></HEAD> 
+<BODY>
+<TABLE id="tlayout" summary="Table for page layout.">
+  <TBODY>
+  <TR valign="top">
+    <TD id="layout-menu">
+      <DIV class="menu-category">K. G. Vamvoudakis</DIV>
+      <DIV class="menu-item"><A class="current" href="http://kyriakos.ae.gatech.edu/"><b>Main</b></A></DIV>
+      <DIV class="menu-item"><A href="http://kyriakos.ae.gatech.edu/bio.html"><b>Biography</b></A></DIV>
+<DIV class="menu-category">Research</DIV>
+<DIV class="menu-item"><A href="http://kyriakos.ae.gatech.edu/people.html"><b>Research Group</b></A></DIV>
+
+      <DIV class="menu-item"><A href="http://kyriakos.ae.gatech.edu/pub.html"><b>Publications</b></A></DIV>
+      <DIV class="menu-item"><A href="http://kyriakos.ae.gatech.edu/res.html"><b>Projects</b></A></DIV>
+      <DIV class="menu-item"><A href="http://scholar.google.com/citations?user=4hWyM_gAAAAJ&hl=en"><b>Scholar Profile</b></A></DIV>
+
+
+      
+<DIV class="menu-category">Professional</DIV>
+
+      <DIV class="menu-item"><A href="http://kyriakos.ae.gatech.edu/prof.html"><b>Experience</b></A></DIV>
+<DIV class="menu-item"><A href="http://kyriakos.ae.gatech.edu/awards.html"><b>Awards</b></A></DIV>
+      <DIV class="menu-item"><A href="http://kyriakos.ae.gatech.edu/prof2.html"><b>Activities</b></A></DIV>
+<DIV class="menu-category">Teaching</DIV>
+      <DIV class="menu-item"><A href="http://kyriakos.ae.gatech.edu/ae3531.html"><b>AE3531</b></A></DIV>
+
+      <DIV class="menu-item"><A href="http://kyriakos.ae.gatech.edu/teach.html"><b>Experience</b></A></DIV>
+
+<DIV class="menu-category">Workshops</DIV>
+
+      <DIV class="menu-item"><A href="http://kyriakos.ae.gatech.edu/rafdac.html"><b>RAFDAC</b></A></DIV>
+
+      </TD>
+    <TD id="layout-content">
+      <DIV id="toptitle">
+      <H1>Kyriakos G. Vamvoudakis, Ph.D.</H1></DIV>
+      <TABLE class="imgtable">
+        <TBODY>
+        <TR>
+          <TD><IMG alt="Kyriakos G. Vamvoudakis" src="Vamvoudakis/Photo-0013or.jpg" alt="450" width="300px"/>&nbsp;</TD>
+          <TD align="left">
+            <P><b>Assistant Professor</b>
+<br><A href="https://ae.gatech.edu/">The Daniel Guggenheim School of Aerospace Engineering</A>,
+<a href="http://www.gatech.edu">Georgia Institute of Technology</a></p>
+
+            <P><b>Adjunct</b>
+<br><A href="https://www.ece.gatech.edu/">School of Electrical and Computer Engineering</A>,
+<a href="http://www.gatech.edu">Georgia Institute of Technology</a></p>
+         
+
+         
+            <P><b>Affiliate</b>
+<br><A href="http://www.robotics.gatech.edu/">Institute for Robotics and Intelligent Machines</A>
+<br><A href="http://dcl.gatech.edu/">Decision and Control Laboratory</A>
+<br><A href="http://ml.gatech.edu/">The Center for Machine Learning</A>
+<br><A href="http://iisp.gatech.edu/">Institute of Information Security and Privacy</A>
+<br><A href="https://cdait.gatech.edu/">Center for the Development and Application of Internet of Things Technologies</A>
+</font></span<b> 
+<br><img src="my_files/Gatech.png" height="100" width="330">
+</P>  
+</TD></TR></TBODY></TABLE>
+      <DIV class="infoblock">
+            <H2>Contact</H2>
+      <P><b>Mail:</b></font></span>
+                         The Daniel Guggenheim School of Aerospace Engineering,<br>Montgomery Knight Building, Office 415-B 
+                         <br> Georgia Institute of Technology,<br>270 Ferst Drive, NW, Atlanta, GA 30332-0150, USA</font><BR><b>E-mail:</b> kyriakos at
+      gatech.edu<BR><b>Telephone:</b> +1 (404)-385-3342<BR><b>Fax:</b> +1 (404)-894-2760<BR></P>
+        
+         
+      <DIV class="infoblock">
+
+                          <H2>Reseach Interests</H2>
+            
+         
+           <p align="justify"> Dr. Vamvoudakis' research is multi-disciplinary
+      and draws from the areas of <b>control theory</b>, <b>game
+        theory</b>, <b>cyber-physical systems</b>, <b>safe autonomy</b>, and <b>reinforcement learning</b>. Interactions
+      between self-interested agents along with learning-inspired
+      approaches, are used to design and develop resilient control system
+      algorithms with guaranteed performance, robustness, and stability where
+      traditional techniques are unable to provide any solutions.   
+      <DIV class="infoblock">
+
+                          <H2>Research News and Highlights</H2>
+ <ul type="square">
+<li> <p align="justify">Dr. Vamvoudakis received a <b>2019 <A href="https://www.arl.army.mil/www/default.cfm?page=186">Army Research Office (ARO)</a> YIP award</b> (ARO's most prestigious award in support of early-career faculty) for his work on &#8220;Non-Equilibrium Game-Theoretic Learning Techniques For Mitigating Adversaries in Complex Adaptive Systems (CAS).&#8221;
+</p></li>
+
+<li> <p align="justify">Dr. Vamvoudakis has been elected on August 2019, to the grade of <b>Senior Member of AIAA</b> in recognition of his demonstrated successful professional practice in the arts, sciences, and technology of aeronautics.
+</p></li>
+
+
+<li> <p align="justify">Paper on &#8220;<a
+href="http://ieeexplore.ieee.org/document/8169685/">Optimal and Autonomous Control Using Reinforcement Learning: A Survey</a>,&#8221;
+ is listed as a <b>2018 Publication Spotlight</b> of the
+IEEE Computational Intelligence Society.
+</p></li>
+
+
+<li> <p align="justify">Dr. Vamvoudakis received a <b>2018 NSF CAREER award</b> (NSF's most prestigious award in support of early-career faculty) for his work on &#8220;<A href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1851588">Intermittent Learning Framework for Smart and Efficient Cyber-Physical Autonomy</a>.&#8221;
+</p></li>
+<li> <p align="justify">Dr. Vamvoudakis received a 2018 <A href="http://minerva.defense.gov/"><b>Department of Defense Minerva Research Initiative award</b></a> (emphasizes questions of strategic importance to U.S. national security policy) for his work on &#8220;Data-Driven Learning Techniques for Cyber-Physical-Situation Awareness in Defense Systems.&#8221;
+</p></li>
+
+<li> <p align="justify">Dr. Vamvoudakis was awarded the <A href="http://www.inns.org/inns-awards-recipients"><b>International Neural Network Society (INNS) 2016 Young Investigator Award</b></a> with the citation <i>&#8220;For Significant Early Career Contributions in the Field of Reinforcement Learning and Intelligent Control.&#8221;</i>
+<div class="article_photo_left" style="width:241px;">
+<img src="Vamvoudakis/51.jpg"
+		pbCaption="Dr. K. G. Vamvoudakis of Georgia Tech, Dr. A. Minai, President INNS."
+		class="PopBoxImageSmall"
+		alt="Dr. K. G. Vamvoudakis of Georgia Tech, Dr. A. Minai, President INNS."
+		width="240"
+		title="From left: Dr. K. G. Vamvoudakis of Georgia Tech, Dr. A. Minai, President INNS."
+		onclick="Pop(this,70,'PopBoxImageLarge');"/>
+	</b></p></div>
+ <p align="justify">
+<font size="2">
+<em>From left: Dr. K. G. Vamvoudakis of Georgia Tech, Dr. A. Minai, President INNS.</em></font>
+</p></li>      
+<li> <p align="justify">Dr. Vamvoudakis was named <A href="https://www.ccdc.ucsb.edu/content/kyriakos-vamvoudakis">CCDC Researcher of the Spring Quarter 2017</a>.
+</p></li>
+
+<li> <p align="justify">Dr. Vamvoudakis has been elected on November 2015, to the grade of <b>Senior Member of IEEE</b> in recognition of his professional standing.
+</p></li>
+
+      <li> <p align="justify">Dr. Vamvoudakis was awarded <b>U.S. Patent</b> rights (along with F. L. Lewis and D. Vrabie) on July 2015, for his invention titled <i>&#8220;Optimal Online Adaptive Controller&#8221; (US Patent Number 9,134,707)</i>. Please see the public releases at <A href="http://www.eurekalert.org/pub_releases/2015-09/uota-uap090115.php">eurekalert.org</a>, <A href="http://phys.org/news/2015-09-patent-real-time-based-previous-decisions.html">phys.org</a>, <A href="http://www.techradar.com/us/news/world-of-tech/future-tech/now-autonomous-robots-can-learn-from-their-mistakes-in-real-time-1303359">techradar.com</a>, <A href="http://www.engadget.com/2015/09/02/real-time-robot-learning-patent/">endadget.com</a>, <A href="http://www.msn.com/en-us/news/technology/robots-can-learn-from-their-mistakes-in-real-time/ar-AAdSVUk?ocid=spartandhp">msn.com</a>, <A href="http://www.engineersaustralia.org.au/news/improving-real-time-decisions">engineersaustralia.org.au</a>, <A href="http://www.theshorthorn.com/news/artificial-intelligence-research-under-way/article_3c17f2a4-5c0e-11e5-9d04-37120cb37602.html">theshorthorn.com</a> and <A href="https://humanoids.io/2015/09/robots-will-soon-learn-from-their-mistakes/">humanoids.io</a>.
+</p></li>
+    <li><p align="justify">Dr. Vamvoudakis received the <b>Best Paper Award at the 2010 Army Science Conference</b> with the citation <i>&#8220;Award-Winning Research Keeps Soldiers Safe, Effective&#8221;</i>.
+<div class="article_photo_left" style="width:241px;">
+<img src="Vamvoudakis/080107_gvset04.jpg"
+		pbsrc="http://www.tardec.info/GVSETNews/images/080107_gvset04.jpg" 
+		pbCaption="From left: Dr. Marilyn Freeman, Deputy Assistant Secretary of the Army (Research and Technology), Dr. Kyriakos G. Vamvoudakis of the University of California, Santa Barbara, TARDEC Engineer Dariusz Mikulski, TARDEC Engineer Dr. Gregory Hudas and U.S. Army Chief Scientist Dr. Scott Fish. Freeman and Fish were presenting the Best Paper award for the Autonomous and Unmanned Systems Technical Session. Not pictured: Frank Lewis, University of Texas-Arlington. (U.S. Army TARDEC photo by Chris Williams.)"
+		class="PopBoxImageSmall"
+		alt="From left: Dr. Marilyn Freeman, Deputy Assistant Secretary of the Army (Research and Technology), Dr. Kyriakos G. Vamvoudakis of the University of California, Santa Barbara, TARDEC Engineer Dariusz Mikulski, TARDEC Engineer Dr. Gregory Hudas and U.S. Army Chief Scientist Dr. Scott Fish. Freeman and Fish were presenting the Best Paper award for the Autonomous and Unmanned Systems Technical Session. Not pictured: Frank Lewis, University of Texas-Arlington. (U.S. Army TARDEC photo by Chris Williams.)"
+		width="240"
+		title="From left: Dr. Marilyn Freeman, Deputy Assistant Secretary of the Army (Research and Technology), Dr. Kyriakos G. Vamvoudakis of the University of California, Santa Barbara, TARDEC Engineer Dariusz Mikulski, TARDEC Engineer Dr. Gregory Hudas and U.S. Army Chief Scientist Dr. Scott Fish. Freeman and Fish were presenting the Best Paper award for the Autonomous and Unmanned Systems Technical Session. Not pictured: Frank Lewis, University of Texas-Arlington. (U.S. Army TARDEC photo by Chris Williams.)"
+		onclick="Pop(this,70,'PopBoxImageLarge');"/>
+	</b></p></div>
+ <p align="justify">
+<font size="2">
+<em>From left: Dr. M. Freeman, Deputy Assistant Secretary of the Army (Research and Technology), Dr. K. G. Vamvoudakis of Georgia Tech, TARDEC Engineer D. Mikulski, TARDEC Engineer Dr. G. Hudas and U.S. Army Chief Scientist Dr. S. Fish. (U.S. Army TARDEC photo by C. Williams.)</em></font>
+</p></li></ul>
+</TD></TR></TBODY></TABLE></BODY></HTML>
